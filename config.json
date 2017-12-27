@@ -1,0 +1,5 @@
+{
+  "clientID": "733151080227950",
+  "clientSecret": "e8f03ff1fd95415c94cb62c64abc78d8",
+  "callbackURL": "http://localhost:7777/callback"
+}

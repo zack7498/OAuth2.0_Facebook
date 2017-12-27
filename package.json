@@ -1,0 +1,20 @@
+{
+  "name": "OAuth2.0_Facebook",
+  "version": "1.0.0",
+  "description": "OAuth2.0_Facebook examle",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ryo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "compression": "^1.6.2",
+    "body-parser": "^1.15.2",
+    "morgan": "^1.7.0",
+    "connect-timeout": "^1.7.0",
+    "passport": "^0.1.17",
+    "passport-facebook": "^2.1.1"
+  }
+}
